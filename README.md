@@ -1,5 +1,5 @@
 # Credit_Scoring_Prediction
-Modelo de Machine learning, capaz de evaluar con mayor precisión la probabilidad de incumplimiento crediticio de sus clientes.
+La importancia de reducir el riesgo crediticio ha llevado a una institución financiera alemana a buscar soluciones innovadoras. Por tanto se crea un modelo de Machine learning, capaz de evaluar con mayor precisión la probabilidad de incumplimiento crediticio de sus clientes.
 
 La varible de salida es default (0-> buen pagador, 1-> mal pagador), las otras columnas son variables que toma el banco a la hora de solicitar el crédito 
 
