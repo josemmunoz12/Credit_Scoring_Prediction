@@ -1,5 +1,5 @@
 # Credit_Scoring_Prediction
-Modelo de Machine learning, el cual predice si el cliente tiene tendencia a ser incumplido con los pagos
+Modelo de Machine learning, capaz de evaluar con mayor precisión la probabilidad de incumplimiento crediticio de sus clientes.
 
 La varible de salida es default (0-> buen pagador, 1-> mal pagador), las otras columnas son variables que toma el banco a la hora de solicitar el crédito 
 
